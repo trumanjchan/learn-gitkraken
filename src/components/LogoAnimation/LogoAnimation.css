@@ -1,0 +1,19 @@
+.pokemon {
+    display: block;
+    margin: 0 auto;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .pokemon {
+        animation: pokemon-spin infinite 25s linear;
+    }
+}
+
+@keyframes pokemon-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
