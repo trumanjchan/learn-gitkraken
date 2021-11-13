@@ -15,9 +15,9 @@ function Attendees() {
                     <td>11/3/2021</td>
                 </tr>
                 <tr>
-                    <td>Your Name</td>
-                    <td>The Time</td>
-                    <td>The Date</td>
+                    <td>Marty N</td>
+                    <td>Now</td>
+                    <td>You</td>
                 </tr>
 
             </table>
